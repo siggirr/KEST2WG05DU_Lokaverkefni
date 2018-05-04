@@ -13,4 +13,4 @@
 ## Hver hópur fær tvo servera og tvær Windows 8.1 útstöðvar sem tengdar eru á eftirfarandi hátt:
 ## Halda skal dagbók á GitHub (hvor hópmeðlimur heldur sína dagbók á sameiginlegu svæði hópsins).
 
-## Við þökkum fy7rir samvinnuna á Vornönn 2018 :)
+## Við þökkum fyrir samvinnuna á Vornönn 2018 :)
