@@ -13,3 +13,6 @@
 
 # 4.5.2018 (föstudagur)
 ## Eftir farandi skólabrautir Prentun, Ljósmyndun og Grafísk miðlun hafa fengið allar sínar eiginn byrjunar vefvafrasíður svo að þeir séu nú ekki útundan. Allar deildir hafa fengið sinn eigin prentara og svo er sameignarlegur prengari sem er heitir sameign.
+## við reyndum að gera log on message eða message of the day en það virkar bara fyrir log on screen ekki eftir log on screen. Fórum svo í að láta kennara fá personal screen sever, bubbles.scr og screen saver timeout 300 sekúndur. Kennara fá líka sérgerðan wallpaper sem sýnir kennerum skóladagatal.
+
+# Takk fyrir
