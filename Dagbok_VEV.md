@@ -1,4 +1,4 @@
-# Dagbók eða development log fyrir Viðar Erik Viðarsson.
+# Dagbók Viðar Erik Viðarsson.
 
 ## 17.4.2017
 ## Í dag fórum við í að gera github repository og gera grunninn fyrir lokaverkefni.
